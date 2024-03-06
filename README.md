@@ -1,2 +1,1 @@
-# iNarrate
- 
+# image-caption-generator
